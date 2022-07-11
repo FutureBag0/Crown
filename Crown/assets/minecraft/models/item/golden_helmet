@@ -1,0 +1,12 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "minecraft:item/golden_helmet"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":269901}, "model": "crown/crown"},
+		{"predicate": {"custom_model_data":269902}, "model": "crown/crown2"},
+		{"predicate": {"custom_model_data":269903}, "model": "crown/crown3"}
+	]
+}
